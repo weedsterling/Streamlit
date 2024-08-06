@@ -2,10 +2,10 @@
 import streamlit as st
 import pandas as pd
 
-st.markdown("### Ceci est un titre énorme")
+st.markdown("### Welcome to Data Institute of Technology (DIT)")
 
 # un message de bienvenue
-st.write("Bonjour DIT, comment allez vous ? Ici tout va bien")
+st.write("Bonjour et bienvenue à la DIT, L'ecole de l'Intelligence Artificielle")
 
 
 
