@@ -11,8 +11,8 @@ st.write("Bonjour et bienvenue à la DIT, L'ecole de l'Intelligence Artificielle
 
 # un dataframe
 df = pd.DataFrame({
-  'first column': [1, 2, 3, 4],
-  'second column': [10, 20, 30, 40]
+  'Colonne 1': [1, 2, 3, 4],
+  'Colonne 2': [10, 20, 30, 40]
 })
 
 # affichage du dataframe
