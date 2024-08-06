@@ -5,7 +5,7 @@ import pandas as pd
 st.markdown("### Welcome to Data Institute of Technology (DIT)")
 
 # un message de bienvenue
-st.write("Bonjour et bienvenue à la DIT, L'ecole de l'Intelligence Artificielle")
+st.write("Bonjour et bienvenue à la DIT, L'école de l'Intelligence Artificielle")
 
 
 
